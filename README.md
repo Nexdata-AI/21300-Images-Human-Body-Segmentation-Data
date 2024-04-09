@@ -23,6 +23,6 @@ the image data is in .jpg or .png format, the annotation file is in .json format
 ## Annotation content
 segmentation annotation of human body
 ## Accuracy
-the mask edge location errors in x and y directions are less than 3 pixels, which is considered as a qualified annotation;the human body is regarded as
+the mask edge location errors in x and y directions are less than 3 pixels, which is considered as a qualified annotation;the human body is regarded as the unit, the accuracy rate shall be more than 97%
 # Licensing Information
 Commercial License
